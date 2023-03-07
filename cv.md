@@ -34,7 +34,7 @@ function findUniq(arr) {
 ```
 #### Projects
 
-...
+https://volya-piatrovich.github.io/rsschool-cv/cv
 
 #### Education
 
