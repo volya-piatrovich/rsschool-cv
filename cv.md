@@ -1,3 +1,4 @@
+![me](/rsschool-cv/img/me.jpg)
 # Volha Piatrovich
 
 ---
